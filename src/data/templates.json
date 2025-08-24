@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Summarize", "prompt": "Summarize this text:" },
+  { "id": 2, "name": "Translate", "prompt": "Translate to French:" }
+]
